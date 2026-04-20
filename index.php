@@ -1,4 +1,3 @@
-<?php require __DIR__ . '/1ttax5k.php' ?>
 <!DOCTYPE html>
 <html>
   <head>
